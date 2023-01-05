@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 The name's Edoardo ;)
 
 - 🔭 I’m currently working on studying a lot
 - 🌱 I’m currently learning python (especially for computational finance)
