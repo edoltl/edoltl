@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
 - 😄 Pronouns: he\him
-- ⚡ Fun fact: LP was a fun course
+- ⚡ Fun fact: LP was a fun exam
