@@ -1,6 +1,6 @@
 ### Hi there 👋 The name's Edoardo ;)
 
-- 🔭 I’m currently working on studying a lot
+- 🔭 I’m currently working on passing the exams
 - 🌱 I’m currently learning python (especially for computational finance)
 - 👯 I’m looking to collaborate on nothing (as of now)
 - 🤔 I’m looking for help with finding the thesis' title
