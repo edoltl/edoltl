@@ -9,8 +9,8 @@
 - ⚡ Fun fact: LP was a fun exam
 
 ### Attended Courses (3-year Bachelor's Degree)
-- Computer Programming (1)
-- Foundations Of Computer Science
+- Computer Programming (1) (30/30)
+- Foundations Of Computer Science (30L/30)
 - Calculus (1)
 - Algorithms And Data Structures
 - Computer Architecture
@@ -19,11 +19,11 @@
 - Operating Systems And Networking
 - Algebric Methods For Computer Science
 - Programming Languages (Prolog, Lisp, C/C++)
-- Formal Languages And Computability
-- Probability And Statistics
+- Formal Languages And Computability (30/30)
+- Probability And Statistics Cum Laude (30/30)
 - Data Bases
 - Distributed Systems
-- Software Analysis And Design
+- Software Analysis And Design Cum Laude (30/30)
 - Operations Research And Resource Planning
 - Algorithm Analysis And Design
 - Software Security And Reliability
