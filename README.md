@@ -20,10 +20,10 @@
 - Algebric Methods For Computer Science
 - Programming Languages (Prolog, Lisp, C/C++)
 - Formal Languages And Computability (30/30)
-- Probability And Statistics Cum Laude (30/30)
+- Probability And Statistics (30/30)
 - Data Bases
 - Distributed Systems
-- Software Analysis And Design Cum Laude (30/30)
+- Software Analysis And Design (30/30)
 - Operations Research And Resource Planning
 - Algorithm Analysis And Design
 - Software Security And Reliability
