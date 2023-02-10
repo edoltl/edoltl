@@ -21,11 +21,11 @@
 - Programming Languages (Prolog, Lisp, C/C++)
 - Formal Languages And Computability (30/30)
 - Probability And Statistics (30/30)
-- Data Bases
+- Databases
 - Distributed Systems
 - Software Analysis And Design (30/30)
 - Operations Research And Resource Planning
 - Algorithm Analysis And Design
 - Software Security And Reliability
 - Mobile Programming (Android Studio)
-- Elements Of Bioinformatics
+- Advanced Databases  
