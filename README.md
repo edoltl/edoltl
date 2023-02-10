@@ -28,4 +28,4 @@
 - Algorithm Analysis And Design
 - Software Security And Reliability
 - Mobile Programming (Android Studio)
-- Human-Computer Interaction
+- Elements Of Bioinformatics
