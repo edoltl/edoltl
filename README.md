@@ -8,24 +8,7 @@
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: LP was a fun exam
 
-### Attended Courses (3-year Bachelor's Degree)
-- Computer Programming (1) (30/30)
-- Foundations Of Computer Science (30L/30)
-- Calculus (1)
-- Algorithms And Data Structures
-- Computer Architecture
-- Linear Algebra and Geometry
-- Computer Programming (2)
-- Operating Systems And Networking
-- Algebric Methods For Computer Science
-- Programming Languages (Prolog, Lisp, C/C++)
-- Formal Languages And Computability (30/30)
-- Probability And Statistics (30/30)
-- Databases
-- Distributed Systems
-- Software Analysis And Design (30/30)
-- Operations Research And Resource Planning
-- Algorithm Analysis And Design
+### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability
 - Mobile Programming (Android Studio)
 - Advanced Databases  
