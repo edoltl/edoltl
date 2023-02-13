@@ -6,7 +6,7 @@
 
 ### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability
-- Mobile Programming (Android Studio) Project: Karori
+- Mobile Programming (Android Studio)
 - Advanced Databases  
 
 ### Future Courses (2-year Master's Degree)
@@ -25,3 +25,7 @@
 - Cybersecurity
 - Quantum & Unconventional Computing
 - Software Quality
+
+###University Projects: 
+- Karori (diet app)
+- JSON Parsing (Prolog & Common Lisp)
