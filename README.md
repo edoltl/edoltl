@@ -1,6 +1,6 @@
 ## Hi there 👋 The name's Edoardo ;)
 
-- 🌱 I’m currently learning python (especially for computational finance)
+- 🌱 I’m currently learning python
 - 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
 
