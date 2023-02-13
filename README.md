@@ -26,6 +26,6 @@
 - Quantum & Unconventional Computing
 - Software Quality
 
-###University Projects: 
+### University Projects: 
 - Karori (diet app)
 - JSON Parsing (Prolog & Common Lisp)
