@@ -12,3 +12,20 @@
 - Software Security And Reliability
 - Mobile Programming (Android Studio)
 - Advanced Databases  
+
+### Future Courses (2-year Master's Degree)
+#### Mandatory:
+- Machine Learning
+- Data Architectures
+- Concurrency Models And Computation Theory
+- Software Development Processes
+- Software Design Lab
+#### Elective Courses:
+- Methods For Scientific Computing
+- Telecommunication Systems & Services
+- Information Systems
+- Information Theory And Criptography
+- Causal Networks
+- Cybersecurity
+- Quantum & Unconventional Computing
+- Software Quality
