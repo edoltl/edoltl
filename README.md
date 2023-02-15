@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
-- ⚡ Fun fact: LP was a fun exam
 
 ### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability 27/30
