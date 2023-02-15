@@ -6,9 +6,9 @@
 - ⚡ Fun fact: LP was a fun exam
 
 ### Elective Courses (3-year Bachelor's Degree)
-- Software Security And Reliability
-- Mobile Programming (Android Studio)
-- Advanced Databases  
+- Software Security And Reliability 27/30
+- Mobile Programming (Android Studio) 26/30
+- Advanced Databases t.b.d.
 
 ### Future Courses (2-year Master's Degree)
 #### Mandatory:
@@ -23,10 +23,10 @@
 - Information Systems
 - Information Theory And Criptography
 - Causal Networks
-- Cybersecurity
+- Cybersecurity For Data Science
 - Quantum & Unconventional Computing
-- Software Quality
+- Software Architecture
 
 ### University Projects: 
-- Karori (diet app)
-- JSON Parsing (Prolog & Common Lisp)
+- Karori (diet app) 26/30
+- JSON Parsing (Prolog & Common Lisp) 29/30
