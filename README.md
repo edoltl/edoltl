@@ -27,5 +27,5 @@
 - Software Architecture
 
 ### University Projects: 
-- Karori (diet app) 26/30
-- JSON Parsing (Prolog & Common Lisp) 29/30
+- Karori (diet app)
+- JSON Parsing (Prolog & Common Lisp) 30/30
