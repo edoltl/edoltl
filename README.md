@@ -18,11 +18,11 @@
 - Software Design Lab
 #### Elective Courses:
 - Methods For Scientific Computing
-- Telecommunication Systems & Services
-- Information Systems
+- Probabilistic Decision Making Models
+- Bioinformatics
 - Information Theory And Criptography
-- Causal Networks
-- Cybersecurity For Data Science
+- Artificial Intelligence
+- Digital Signal & Image Management
 - Quantum & Unconventional Computing
 - Software Architecture
 
