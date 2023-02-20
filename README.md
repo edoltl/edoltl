@@ -7,7 +7,7 @@
 #### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability 27/30
 - Mobile Programming (Android Studio) 26/30
-- Elements of Bioinformatics t.b.d.
+- Advanced Data Bases t.b.d.
 
 ### Courses (2-year Master's Degree)
 #### Mandatory:
@@ -18,10 +18,10 @@
 - Software Design Lab
 #### Elective Courses:
 - Methods For Scientific Computing
-- Probabilistic Decision Making Models
-- Bioinformatics
+- Telecommunication Systems & Services
+- Knowledge Management
 - Information Theory And Criptography
-- Artificial Intelligence
+- Data Analytics
 - Digital Signal & Image Management
 - Quantum & Unconventional Computing
 - Software Architecture
