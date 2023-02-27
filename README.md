@@ -21,7 +21,7 @@
 - Telecommunication Systems & Services
 - Knowledge Management
 - Information Theory And Criptography
-- Data Analytics
+- Information Retrieval
 - Digital Signal & Image Management
 - Quantum & Unconventional Computing
 - Software Architecture
