@@ -7,7 +7,7 @@
 #### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability 27/30
 - Mobile Programming (Android Studio) 26/30
-- Advanced Data Bases t.b.d.
+- Multimedia Data Processing t.b.d.
 
 ### Courses (2-year Master's Degree)
 #### Mandatory:
