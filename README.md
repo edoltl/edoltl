@@ -29,3 +29,4 @@
 ### University Projects: 
 - Karori (diet app)
 - JSON Parsing (Prolog & Common Lisp) 30/30
+- Multimedia Data Processing Assignments t.b.d.
