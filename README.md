@@ -5,9 +5,9 @@
 - 📫 How to reach me: edoltl01@gmail.com
 
 ### Chosen Courses (3-year Bachelor's Degree)
-- Software Security And Reliability 27/30
-- Mobile Programming (Android Studio) 26/30
-- Multimedia Data & Signal Processing t.b.d.
+- Software Security And Reliability
+- Mobile Programming (Android Studio)
+- Multimedia Data & Signal Processing
 
 ### Courses (2-year Master's Degree)
 #### Mandatory:
