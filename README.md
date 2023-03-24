@@ -4,10 +4,10 @@
 - 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
 
-#### Elective Courses (3-year Bachelor's Degree)
+### Elective Courses (3-year Bachelor's Degree)
 - Software Security And Reliability 27/30
 - Mobile Programming (Android Studio) 26/30
-- Multimedia Data Processing t.b.d.
+- Multimedia Data & Signal Processing t.b.d.
 
 ### Courses (2-year Master's Degree)
 #### Mandatory:
