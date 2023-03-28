@@ -10,8 +10,8 @@
 - Multimedia Data & Signal Processing
 
 ### Projects: 
-- Karori (Diet App)
+- Karori (Diet App, in Java)
 - JSON Parsing (Prolog & Common Lisp)
-- Multimedia Data Processing Assignments
-- Gait Analysis From EMG Signals
+- Multimedia Data Processing Assignments (MATLAB)
+- Gait Analysis From EMG Signals (MATLAB)
 - Campus Indoor Navigation (Unity & C#)
