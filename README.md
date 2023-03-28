@@ -14,3 +14,4 @@
 - JSON Parsing (Prolog & Common Lisp)
 - Multimedia Data Processing Assignments
 - Gait Analysis From EMG Signals
+- Campus Indoor Navigation (Unity & C#)
