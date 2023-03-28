@@ -9,23 +9,6 @@
 - Mobile Programming (Android Studio)
 - Multimedia Data & Signal Processing
 
-### Courses (2-year Master's Degree)
-#### Mandatory:
-- Machine Learning
-- Data Architectures
-- Concurrency Models And Computation Theory
-- Software Development Processes
-- Software Design Lab
-#### Chosen Courses:
-- Methods For Scientific Computing
-- Telecommunication Systems & Services
-- Knowledge Management
-- Information Theory And Criptography
-- Software Quality
-- Digital Signal & Image Management
-- Quantum & Unconventional Computing
-- Software Architecture
-
 ### Projects: 
 - Karori (Diet App)
 - JSON Parsing (Prolog & Common Lisp)
