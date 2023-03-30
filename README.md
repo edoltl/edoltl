@@ -14,4 +14,4 @@
 - JSON Parsing (Prolog & Common Lisp)
 - Multimedia Data Processing Assignments (MATLAB)
 - Gait Analysis From EMG Signals (MATLAB)
-- Campus Indoor Navigation (Unity & C#)
+- Campus Indoor Navigation (Unity & C#, Android Studio & Java)
