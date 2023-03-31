@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
 
-### Chosen Courses (3-year Bachelor's Degree)
+### Chosen Courses 
 - Software Security And Reliability
 - Mobile Programming (Android Studio)
 - Multimedia Data & Signal Processing
