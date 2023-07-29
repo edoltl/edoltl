@@ -14,8 +14,8 @@
 - Scientific Computing Methods
 - Quantum & Unconventional Computing
 - Advanced Machine Learning
-- Cybersecurity For Data Science
-- Digital Signal & Image Management
+- Unsupervised Learning
+- Quantum Information & Algorithms
 
 ### Projects: 
 - Karori (Diet App, in Java)
