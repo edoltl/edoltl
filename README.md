@@ -5,21 +5,15 @@
 - 📫 How to reach me: edoltl01@gmail.com
 
 ### Chosen Courses 
-- Software Security And Reliability
 - Mobile Programming (Android Studio)
-- Multimedia Data & Signal Processing
 - Information Theory & Cryptography
-- Knowledge Management
+- Knowledge Management (In Social Service Organizations)
 - Telecommunication Systems & Services
 - Scientific Computing Methods
 - Quantum & Unconventional Computing
-- Advanced Machine Learning
-- Unsupervised Learning
-- Quantum Information & Algorithms
+- Advanced Machine Learning (DL & LSTM)
+- Digital Signal & Image Management
 
 ### Projects: 
-- Karori (Diet App, in Java)
-- JSON Parsing (Prolog & Common Lisp)
-- Multimedia Data Processing Assignments (MATLAB)
 - Gait Analysis From EMG Signals (MATLAB)
-- Campus Indoor Navigation (Unity & C#, Android Studio & Java)
+- Campus Indoor Navigation (Unity, Android Studio)
