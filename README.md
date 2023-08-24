@@ -1,7 +1,5 @@
 ## Hi there 👋 The name's Edoardo ;)
 
-- 🌱 I’m currently learning multimedia signal processing
-- 🤔 I’m looking for help with finding the thesis' title
 - 📫 How to reach me: edoltl01@gmail.com
 
 ### Chosen Courses 
