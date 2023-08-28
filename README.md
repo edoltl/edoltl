@@ -5,12 +5,12 @@
 ### Chosen Courses 
 - Mobile Programming (Android Studio)
 - Information Theory & Cryptography
-- Knowledge Management (In Social Service Organizations)
-- Telecommunication Systems & Services
+- Causal Networks
+- Probalistic Models For Decision Making
 - Scientific Computing Methods
 - Quantum & Unconventional Computing
 - Advanced Machine Learning (DL & LSTM)
-- Digital Signal & Image Management
+- Unsupervised Learning Methods
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
