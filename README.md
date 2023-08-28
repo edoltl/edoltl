@@ -11,6 +11,7 @@
 - Quantum & Unconventional Computing
 - Advanced Machine Learning (DL & LSTM)
 - Unsupervised Learning Methods
+- Bioinformatics & Biostatistics
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
