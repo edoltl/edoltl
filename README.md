@@ -2,15 +2,15 @@
 
 - 📫 How to reach me: edoltl01@gmail.com
 
-### Chosen Courses 
+### Chosen Courses & Interests
 - Mobile Programming (Android Studio)
 - Information Theory & Cryptography
-- Causal Networks
+- Bayesian Inference
 - Telecommunication Systems & Services
 - Scientific Computing Methods
 - Quantum & Unconventional Computing
 - Advanced Machine Learning (DL & LSTM)
-- Unsupervised Learning Methods
+- Knowledge Management
 - Bioinformatics & Biostatistics
 
 ### Projects: 
