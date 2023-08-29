@@ -6,7 +6,7 @@
 - Mobile Programming (Android Studio)
 - Information Theory & Cryptography
 - Causal Networks
-- Probalistic Models For Decision Making
+- Telecommunication Systems & Services
 - Scientific Computing Methods
 - Quantum & Unconventional Computing
 - Advanced Machine Learning (DL & LSTM)
