@@ -2,16 +2,15 @@
 
 - 📫 How to reach me: edoltl01@gmail.com
 
-### Chosen Courses & Interests
-- Mobile Programming (Android Studio)
+### Interests:
 - Information Theory & Cryptography
-- Bayesian Inference
+- Probabilistic Graphical Models
 - Telecommunication Systems & Services
-- Scientific Computing Methods
 - Quantum & Unconventional Computing
-- Advanced Machine Learning (DL & LSTM)
 - Knowledge Management
-- Bioinformatics & Biostatistics
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
