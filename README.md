@@ -5,7 +5,6 @@
 ### Interests:
 - Information Theory & Cryptography
 - Probabilistic Graphical Models
-- Telecommunication Systems & Services
 - Quantum & Unconventional Computing
 - Knowledge Management
 - Artificial Intelligence
