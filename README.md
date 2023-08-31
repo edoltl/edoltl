@@ -7,6 +7,7 @@
 - Probabilistic Graphical Models
 - Quantum & Unconventional Computing
 - Knowledge Management
+- Data Engineering
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
