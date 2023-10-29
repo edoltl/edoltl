@@ -5,7 +5,7 @@
 ### Interests:
 - Artificial Intelligence
 - Data Science
-- Data Engineering.
+- Data Engineering
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
