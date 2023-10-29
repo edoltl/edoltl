@@ -3,14 +3,7 @@
 - 📫 How to reach me: edoltl01@gmail.com
 
 ### Interests:
-- Information Theory & Cryptography
-- Quantum Information
-- Probabilistic Graphical Models
-- Knowledge Management
-- Data Engineering
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
+Artificial Intelligence, Data Science, Data Engineering.
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
