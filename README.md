@@ -3,7 +3,9 @@
 - 📫 How to reach me: edoltl01@gmail.com
 
 ### Interests:
-Artificial Intelligence, Data Science, Data Engineering.
+- Artificial Intelligence
+- Data Science
+- Data Engineering.
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
