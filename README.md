@@ -9,4 +9,4 @@
 
 ### Projects: 
 - Gait Analysis From EMG Signals (MATLAB)
-- Campus Indoor Navigation (Unity, Android Studio)
+- Machine Learning University Project
