@@ -6,7 +6,3 @@
 - Artificial Intelligence
 - Data Science
 - Data Engineering
-
-### Projects: 
-- Gait Analysis From EMG Signals (MATLAB)
-- Machine Learning University Project
